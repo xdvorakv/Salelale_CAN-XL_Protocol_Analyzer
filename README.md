@@ -1,5 +1,5 @@
-# Salelale_CAN-XL_Protocol_Analyzer
-Plugin for Saleale logic analyzer adding support for decoding of the CAN,  CAN FD and CAN XL bus 
+# Saleae_CAN-XL_Protocol_Analyzer
+Plugin for Saleae logic analyzer adding support for decoding of the CAN,  CAN FD and CAN XL bus 
 
 This pluggin supports decoding of the CAN, CAN FD and also decoding of the CAN XL protocol. 
 
